@@ -1,20 +1,27 @@
 import pandas as pd
 import re
 
-# Load class teachers
 def load_classteachers(filename):
+    """
+    Loads class teacher mapping from Classteachers.csv.
+    The file is structured as pairs: [class, subject] row, then [, teacher] row.
+    """
     df = pd.read_csv(filename, header=None)
     mapping = {}
-    # Find every class row and the next two rows are subject and teacher
-    for i in range(2, len(df), 2):
-        class_name = str(df.iloc[i, 0]).strip()
-        subject = str(df.iloc[i, 1]).strip()
-        teacher = str(df.iloc[i+1, 1]).strip()
+    rows = df.values.tolist()
+    i = 2  # Skip header and first dummy row
+    while i + 1 < len(rows):
+        class_name = str(rows[i][0]).strip()
+        subject = str(rows[i][1]).strip()
+        teacher = str(rows[i+1][1]).strip()
         mapping[class_name] = (subject, teacher)
+        i += 2
     return mapping
 
-# Parse timetable CSV to DataFrames per class
 def parse_timetable(filename):
+    """
+    Parses the timetable CSV into a dictionary of DataFrames keyed by class name.
+    """
     with open(filename, encoding="utf-8") as f:
         lines = [l.strip() for l in f.readlines() if l.strip()]
     class_tables = {}
@@ -37,8 +44,11 @@ def parse_timetable(filename):
             i += 1
     return class_tables
 
-# Update timetable with class teacher for 1st period
 def update_timetable(class_tables, classteacher_map):
+    """
+    Updates the 1st period of each day in each class's timetable with the class teacher's subject and name.
+    Ensures all cells are in Subject\\nTeacher format.
+    """
     new_tables = {}
     for class_name, df in class_tables.items():
         canonical = class_name.strip()
@@ -55,18 +65,18 @@ def update_timetable(class_tables, classteacher_map):
                     if val and '\n' in val:
                         subj, teacher = map(str.strip, val.split('\n', 1))
                         val = f"{subj}\n{teacher}"
-                    else:
-                        # Try to split with last space as fallback
-                        m = re.match(r"(.+)\s+([^\s]+)$", val) if val else None
-                        if m:
-                            subj, teacher = m.group(1), m.group(2)
-                            val = f"{subj}\n{teacher}"
+                    elif val and val.count(' ') == 1 and not val.endswith(' Teacher'):
+                        # Split by last space if format is "Subject Teacher"
+                        subj, teacher = val.rsplit(' ', 1)
+                        val = f"{subj}\n{teacher}"
                     df.at[idx, c] = val
             new_tables[class_name] = df
     return new_tables
 
-# Write to Excel
 def write_excel(class_tables, filename):
+    """
+    Writes each class's timetable to a sheet in the Excel workbook.
+    """
     with pd.ExcelWriter(filename, engine='openpyxl') as writer:
         for cls, df in class_tables.items():
             ws_name = cls.replace("-", "_").replace(" ", "_")[:31]
