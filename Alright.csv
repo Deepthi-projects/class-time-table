@@ -1,0 +1,1099 @@
+Class,10,10,10,10,10,10,10
+Period,1st,2nd,3rd,4th,5th,6th,7th
+Monday,"Maths
+Lavanya","Physics
+Pavan","English
+Sudheer","Social
+Pushpalatha","Biology
+Madhavi","Hindi
+Asiya","Telugu
+Surya Prakash"
+Tuesday,"Physics
+Pavan","Biology
+Madhavi","PET
+Sports Teacher","Telugu
+Surya Prakash","Maths
+Lavanya","English
+Sudheer","Hindi
+Asiya"
+Wednesday,"English
+Sudheer","Hindi
+Asiya","Biology
+Madhavi","Maths
+Lavanya","Social
+Pushpalatha","Physics
+Pavan","Telugu
+Surya Prakash"
+Thursday,"Biology
+Madhavi","Maths
+Lavanya","Social
+Pushpalatha","Hindi
+Asiya","Telugu
+Surya Prakash","English
+Sudheer","Physics
+Pavan"
+Friday,"Telugu
+Surya Prakash","English
+Sudheer","Physics
+Pavan","Biology
+Madhavi","Hindi
+Asiya","Social
+Pushpalatha","Maths
+Lavanya"
+Saturday,"Social
+Pushpalatha","Telugu
+Surya Prakash","Hindi
+Asiya","Physics
+Pavan","English
+Sudheer","Maths
+Lavanya","Biology
+Madhavi"
+Class,9,9,9,9,9,9,9
+Period,1st,2nd,3rd,4th,5th,6th,7th
+Monday,"Physics
+Pavan","Maths
+Rajeshwari","Telugu
+Surya Prakash","English
+Sudheer","Biology
+Madhavi","Social
+Pushpalatha","Hindi
+Asiya"
+Tuesday,"English
+Sudheer","Biology
+Madhavi","Social
+Pushpalatha","Hindi
+Asiya","Physics
+Pavan","Maths
+Rajeshwari","Telugu
+Surya Prakash"
+Wednesday,"Telugu
+Surya Prakash","Social
+Pushpalatha","PET
+Sports Teacher","Physics
+Pavan","English
+Sudheer","Hindi
+Asiya","Biology
+Madhavi"
+Thursday,"Maths
+Rajeshwari","Physics
+Pavan","Biology
+Madhavi","Social
+Pushpalatha","Telugu
+Surya Prakash","Hindi
+Asiya","English
+Sudheer"
+Friday,"Hindi
+Asiya","Telugu
+Surya Prakash","Maths
+Rajeshwari","Biology
+Madhavi","Social
+Pushpalatha","English
+Sudheer","Physics
+Pavan"
+Saturday,"Biology
+Madhavi","English
+Sudheer","Hindi
+Asiya","Maths
+Rajeshwari","Physics
+Pavan","Telugu
+Surya Prakash","Social
+Pushpalatha"
+Class,8-A,8-A,8-A,8-A,8-A,8-A,8-A
+Period,1st,2nd,3rd,4th,5th,6th,7th
+Monday,"Maths
+Rajeshwari","Physics
+Pavan","English
+Sudheer","Telugu
+Surya Prakash","Biology
+Swathimuthyam","Hindi
+Asiya","Social
+Pushpalatha"
+Tuesday,"Social
+Pushpalatha",EnglishSudheer,"Physics
+Pavan","Biology
+Swathimuthyam","Telugu
+Surya Prakash","Maths
+Rajeshwari","Hindi
+Asiya"
+Wednesday,"Hindi
+Asiya","Biology
+Swathimuthyam","Maths
+Rajeshwari","Social
+Pushpalatha","English
+Sudheer","Telugu
+Surya Prakash","Physics
+Pavan"
+Thursday,"Biology
+Swathimuthyam","Telugu
+Surya Prakash",PETSports Teacher,"English
+Sudheer","Physics
+Pavan","Maths
+Rajeshwari","Hindi
+Asiya"
+Friday,"Physics
+Pavan","Social
+Pushpalatha","Hindi
+Asiya","Maths
+Rajeshwari","Telugu
+Surya Prakash","English
+Sudheer","Biology
+Swathimuthyam"
+Saturday,"Telugu
+Surya Prakash","Hindi
+Asiya","English
+Sudheer","Physics
+Pavan","Biology
+Swathimuthyam","Social
+Pushpalatha","Maths
+Rajeshwari"
+Class,8-B,8-B,8-B,8-B,8-B,8-B,8-B
+Period,1st,2nd,3rd,4th,5th,6th,7th
+Monday,"Social
+Pushpalatha","English
+Sudheer","Physics
+Pavan","Hindi
+Asiya","Maths
+Girija","Biology
+Madhavi","Telugu
+Surya Prakash"
+Tuesday,"Physics
+Pavan","Biology
+Madhavi","Telugu
+Surya Prakash","English
+Sudheer","Hindi
+Asiya","Maths
+Girija","Social
+Pushpalatha"
+Wednesday,"English
+Sudheer","Telugu
+Surya Prakash","Social
+Pushpalatha","Biology
+Madhavi","Physics
+Pavan","Hindi
+Asiya","Maths
+Girija"
+Thursday,"Hindi
+Asiya","Maths
+Girija","Biology
+Madhavi","Social
+Pushpalatha","English
+Sudheer",TeluguSurya Prakash,"Physics
+Pavan"
+Friday,"Telugu
+Surya Prakash","Hindi
+Asiya",PETSports Teacher,"Physics
+Pavan","Biology
+Madhavi","Maths
+Girija","English
+Sudheer"
+Saturday,"Maths
+Girija","Physics
+Pavan","English
+Sudheer","Telugu
+Surya Prakash","Social
+Pushpalatha","Hindi
+Asiya","Biology
+Madhavi"
+Class,7-A,7-A,7-A,7-A,7-A,7-A,7-A
+Period,1st,2nd,3rd,4th,5th,6th,7th
+Monday,"Hindi
+Asiya","Maths
+Pavan","Telugu
+Surya Prakash","English-2
+Sai Madhuri","Science
+Madhavi","Social
+Pushpalatha","English-1
+Sudheer"
+Tuesday,"Science
+Madhavi","English-1
+Sudheer",PETSports Teacher,"Hindi
+Asiya",MathsPavan,"Telugu
+Surya Prakash","English-2
+Sai Madhuri"
+Wednesday,"English-2
+Sai Madhuri","Telugu
+Surya Prakash","Social
+Pushpalatha","Maths
+Pavan","English-1
+Sudheer",PETSports Teacher,"Hindi
+Asiya"
+Thursday,"Telugu
+Surya Prakash","Science
+Madhavi","English-1
+Sudheer","Social
+Pushpalatha","Hindi
+Asiya","Maths
+Pavan","English-2
+Sai Madhuri"
+Friday,"Social
+Pushpalatha","English-2
+Sai Madhuri",MathsPavan,"Telugu
+Surya Prakash","Science
+Madhavi","English-1
+Sudheer","Hindi
+Asiya"
+Saturday,"English-1
+Sudheer","Hindi
+Asiya","Science
+Madhavi","English-2
+Sai Madhuri","Social
+Pushpalatha","Telugu
+Surya Prakash","Maths
+Pavan"
+Class,7-B,7-B,7-B,7-B,7-B,7-B,7-B
+Period,1st,2nd,3rd,4th,5th,6th,7th
+Monday,"English-1
+Sai Madhuri","Science
+Madhavi","Telugu
+Surya Prakash","Hindi
+Asiya","English-2
+Sudheer","Maths
+Pavan","Social
+Asra"
+Tuesday,"Telugu
+Surya Prakash","Hindi
+Asiya","Maths
+Pavan","English-2
+Sudheer","Science
+Madhavi","English-1
+Sai Madhuri","Social
+Asra"
+Wednesday,"Science
+Madhavi","English-1
+Sai Madhuri",PETSports Teacher,"Maths
+Pavan","Telugu
+Surya Prakash","Hindi
+Asiya","English-2
+Sudheer"
+Thursday,"Maths
+Pavan","Social
+Asra","English-2
+Sudheer","Telugu
+Surya Prakash","Hindi
+Asiya","Science
+Madhavi","English-1
+Sai Madhuri"
+Friday,"English-2
+Sudheer","Telugu
+Surya Prakash","Hindi
+Asiya","Science
+Madhavi","English-1
+Sai Madhuri",PETSports Teacher,"Maths
+Pavan"
+Saturday,"Hindi
+Asiya","Maths
+Pavan","Social
+Asra","English-1
+Sai Madhuri","English-2
+Sudheer","Telugu
+Surya Prakash","Science
+Madhavi"
+Class,6,6,6,6,6,6,6
+Period,1st,2nd,3rd,4th,5th,6th,7th
+Monday,"Maths
+Navaneetha","Telugu
+Surya Prakash","English-2
+Divya","Social
+Pushpalatha","Science
+Pavan","English-1
+Sai Madhuri","Hindi
+Asiya"
+Tuesday,"Hindi
+Asiya","Science
+Pavan","English-1
+Sai Madhuri","Telugu
+Surya Prakash","Maths
+Navaneetha","English-2
+Divya","Social
+Pushpalatha"
+Wednesday,"Social
+Pushpalatha","English-1  
+Sai Madhuri",PETSports Teacher,"Hindi
+Asiya","Telugu
+Surya Prakash","Maths
+Navaneetha","English-2
+Divya"
+Thursday,"English-2
+Divya","Maths
+Navaneetha","Science
+Pavan","English-1
+Sai Madhuri","Hindi
+Asiya","Telugu
+Surya Prakash","Social
+Pushpalatha"
+Friday,"English-1
+Sai Madhuri","Telugu
+Surya Prakash","Maths
+Navaneetha","Science
+Pavan","English-2
+Divya",PETSports Teacher,"Hindi
+Asiya"
+Saturday,"Science
+Pavan","Hindi
+Asiya","English-2
+Divya","Social
+Pushpalatha","English-1
+Sai Madhuri","Maths
+Navaneetha","Telugu
+Surya Prakash"
+Class,5-A,5-A,5-A,5-A,5-A,5-A,5-A
+Period,1st,2nd,3rd,4th,5th,6th,7th
+Monday,"Science
+Madhavi","Social
+Anusha","Maths
+Lavanya","English-2
+Asra","Telugu
+Swarnalakshmi","Hindi
+Chandana","English-1
+Sai Madhuri"
+Tuesday,"English-1
+Sai Madhuri","Telugu
+Swarnalakshmi","English-2
+Asra","Science
+Madhavi","Hindi
+Chandana","Maths
+Lavanya","Social
+Anusha"
+Wednesday,"Maths
+Lavanya","English-1
+Sai Madhuri",PETSports Teacher,"Social
+Anusha","English-2
+Asra","Telugu
+Swarnalakshmi","Hindi
+Chandana"
+Thursday,"Telugu
+Swarnalakshmi","Hindi
+Chandana","Social
+Anusha","Maths
+Lavanya","English-1
+Sai Madhuri","English-2
+Asra","Science
+Madhavi"
+Friday,"English-2
+Asra","Science
+Madhavi","Telugu
+Swarnalakshmi","Hindi
+Chandana","Maths
+Lavanya",PETSports Teacher,"English-1
+Sai Madhuri"
+Saturday,"Hindi
+Chandana","Maths
+Lavanya","English-1
+Sai Madhuri","Telugu
+Swarnalakshmi","Science
+Madhavi","Social
+Anusha","English-2
+Asra"
+Class,5-B,5-B,5-B,5-B,5-B,5-B,5-B
+Period,1st,2nd,3rd,4th,5th,6th,7th
+Monday,"Maths
+Lavanya","Hindi
+Chandana","English-2
+Samreen","Social
+Asra","Telugu
+Swarnalakshmi","English-1
+Sarika","Science
+N Swapna"
+Tuesday,"Science
+N Swapna","English-1
+Sarika","Telugu
+Swarnalakshmi","Hindi
+Chandana","Maths
+Lavanya","English-2
+Samreen","Social
+Asra"
+Wednesday,"English-1
+Sarika","Telugu
+Swarnalakshmi",PETSports Teacher,"Science
+N Swapna","English-2
+Samreen","Hindi
+Chandana","Maths
+Lavanya"
+Thursday,"Social
+Asra","Maths
+Lavanya","Hindi
+Chandana","English-1
+Sarika","Science
+N Swapna","Telugu
+Swarnalakshmi","English-2
+Samreen"
+Friday,"Telugu
+Swarnalakshmi","English-2
+Samreen","Science
+N Swapna","Maths
+Lavanya","Social
+Asra",PETSports Teacher,"Hindi
+Chandana"
+Saturday,"English-2
+Samreen","Science
+N Swapna","Maths
+Lavanya","Telugu
+Swarnalakshmi","Hindi
+Chandana","Social
+Asra","English-1
+Sarika"
+Class,5-C,5-C,5-C,5-C,5-C,5-C,5-C
+Period,1st,2nd,3rd,4th,5th,6th,7th
+Monday,"Maths
+Girija","Telugu
+Swarnalakshmi","English-2
+Lavanya","Social
+N Swapna","Science
+Swathimuthyam","English-1
+Divya","Hindi
+Samreen"
+Tuesday,"English-1
+Divya","Science
+Swathimuthyam","Hindi
+Samreen","Telugu
+Swarnalakshmi","Maths
+Girija","English-2
+Lavanya","Social
+N Swapna"
+Wednesday,"Hindi
+Samreen","English-1
+Divya",PETSports Teacher,"Science
+Swathimuthyam","English-2
+Lavanya","Maths
+Girija","Telugu
+Swarnalakshmi"
+Thursday,"Social
+N Swapna","Maths
+Girija","English-1
+Divya","English-2
+Lavanya","Telugu
+Swarnalakshmi","Science
+Swathimuthyam","Hindi
+Samreen"
+Friday,"English-2
+Lavanya","Telugu
+Swarnalakshmi","Science
+Swathimuthyam","Hindi
+Samreen","English-1
+Divya",PETSports Teacher,"Maths
+Girija"
+Saturday,"Science
+Swathimuthyam","Hindi
+Samreen","Telugu
+Swarnalakshmi","English-1
+Divya","Social
+N Swapna","Maths
+Girija","English-2
+Lavanya"
+Class,4-A,4-A,4-A,4-A,4-A,4-A,4-A
+Period,1st,2nd,3rd,4th,5th,6th,7th
+Monday,"English-2
+Sarika","Social
+Swathimuthyam","Hindi
+Samreen","Telugu
+Swarnalakshmi","Maths
+Girija","English-1
+Sai Madhuri","Science
+Swathimuthyam"
+Tuesday,"Maths
+Girija","Telugu
+Swarnalakshmi","English-2
+Sarika","Hindi
+Samreen","Science
+Swathimuthyam","Social
+Swathimuthyam","English-1
+Sai Madhuri"
+Wednesday,"Science
+Swathimuthyam","English-1
+Sai Madhuri",PETSports Teacher,"English-2
+Sarika","Hindi
+Samreen","Telugu
+Swarnalakshmi","Maths
+Girija"
+Thursday,"English-1
+Sai Madhuri","Science
+Swathimuthyam","Telugu
+Swarnalakshmi","Maths
+Girija","English-2
+Sarika","Hindi
+Samreen","Social
+Swathimuthyam"
+Friday,"Hindi
+Samreen","Maths
+Girija","English-1
+Sai Madhuri","Social
+Swathimuthyam","Telugu
+Swarnalakshmi",PETSports Teacher,"English-2
+Sarika"
+Saturday,"Telugu
+Swarnalakshmi","Hindi
+Samreen","Science
+Swathimuthyam","English-1
+Sai Madhuri","Maths
+Girija","English-2
+Sarika","Social
+Swathimuthyam"
+Class,4-B,4-B,4-B,4-B,4-B,4-B,4-B
+Period,1st,2nd,3rd,4th,5th,6th,7th
+Monday,"English-1
+Divya","English-2
+Lavanya","Telugu
+Pushpalatha","Maths
+Navaneetha","Science
+Rajeshwari","Hindi
+Chandana","Social
+N Swapna"
+Tuesday,"Hindi
+Chandana","Science
+Rajeshwari","English-1
+Divya","Telugu
+Pushpalatha","Maths
+Navaneetha","English-2
+Lavanya","Social
+N Swapna"
+Wednesday,"Social
+N Swapna","Maths
+Navaneetha",PETSports Teacher,"English-1
+Divya","Hindi
+Chandana","Science
+Rajeshwari","Telugu
+Pushpalatha"
+Thursday,"Telugu
+Pushpalatha","English-1
+Divya","Hindi
+Chandana","Science
+Rajeshwari","English-2
+Lavanya","Maths
+Navaneetha","Social
+N Swapna"
+Friday,"Maths
+Navaneetha","Social
+N Swapna","English-2
+Lavanya","Hindi
+Chandana","Telugu
+Pushpalatha",PETSports Teacher,"Science
+Rajeshwari"
+Saturday,"Science
+Rajeshwari","Telugu
+Pushpalatha","Maths
+Navaneetha","English-2
+Lavanya","Social
+N Swapna","English-1
+Divya","Hindi
+Chandana"
+Class,4-C,4-C,4-C,4-C,4-C,4-C,4-C
+Period,1st,2nd,3rd,4th,5th,6th,7th
+Monday,"Science
+Swathimuthyam","English-2
+Lavanya","Hindi
+Samreen","Telugu
+Sushma","Maths
+Girija","English-1
+Girija","Social
+Himabindu"
+Tuesday,"Maths
+Girija","Hindi
+Samreen","English-2
+Lavanya","Science
+Swathimuthyam","Telugu
+Sushma","Social
+Himabindu","English-1
+Girija"
+Wednesday,"English-1
+Girija","Science
+Swathimuthyam",PETSports Teacher,"Hindi
+Samreen","English-2
+Lavanya","Maths
+Girija","Telugu
+Sushma"
+Thursday,"Telugu
+Sushma","Maths
+Girija","Social
+Himabindu","English-2
+Lavanya","Science
+Swathimuthyam","Hindi
+Samreen","English-1
+Girija"
+Friday,"Social
+Himabindu","English-1
+Girija","Telugu
+Sushma","Maths
+Girija","Hindi
+Samreen",PETSports Teacher,"English-2
+Lavanya"
+Saturday,"Hindi
+Samreen","Telugu
+Sushma","Science
+Swathimuthyam","English-1
+Girija","Social
+Himabindu","English-2
+Lavanya","Maths
+Girija"
+Class,3-A,3-A,3-A,3-A,3-A,3-A,3-A
+Period,1st,2nd,3rd,4th,5th,6th,7th
+Monday,"Science
+N Swapna","English-2
+Sai Madhuri","Social
+Asra","Maths
+Navaneetha","Hindi
+Muskan","Telugu
+Swarnalakshmi","English-1
+Sarika"
+Tuesday,"English-1
+Sarika","Telugu
+Swarnalakshmi","Hindi
+Muskan","Science
+N Swapna","English-2
+Sai Madhuri","Maths
+Navaneetha","Social
+Asra"
+Wednesday,"Telugu
+Swarnalakshmi","Maths
+Navaneetha",PETSports Teacher,"English-1
+Sarika","Social
+Asra","Hindi
+Muskan","English-2
+Sai Madhuri"
+Thursday,"Hindi
+Muskan","Science
+N Swapna","English-2
+Sai Madhuri","Telugu
+Swarnalakshmi","Maths
+Navaneetha","English-1
+Sarika","Social
+Asra"
+Friday,"Maths
+Navaneetha","English-1
+Sarika","Telugu
+Swarnalakshmi","Social
+Asra","Science
+N Swapna",PETSports Teacher,"Hindi
+Muskan"
+Saturday,"English-2
+Sai Madhuri","Social 
+Asra","Hindi
+Muskan","Maths
+Navaneetha","Telugu
+Swarnalakshmi","Science
+N Swapna","English-1
+Sarika"
+Class,3-B,3-B,3-B,3-B,3-B,3-B,3-B
+Period,1st,2nd,3rd,4th,5th,6th,7th
+Monday,"Hindi
+Samreen","Social
+Anusha","Telugu
+Sushma","English-1
+Sarika","Maths
+Navaneetha","English-2
+Anusha","Science
+N Swapna"
+Tuesday,"Science
+N Swapna","English-1
+Sarika","English-2
+Anusha","Hindi
+Samreen","Telugu
+Sushma","Maths
+Navaneetha","Social
+Anusha"
+Wednesday,"English-2
+Anusha","Telugu
+Sushma",PETSports Teacher,"Maths
+Navaneetha","Science
+N Swapna","English-1
+Sarika","Hindi
+Samreen"
+Thursday,"Telugu
+Sushma","Maths
+Navaneetha","Hindi
+Samreen","English-2
+Anusha","English-1
+Sarika","Science
+N Swapna","Social
+Anusha"
+Friday,"English-1
+Sarika","Science
+N Swapna","English-2
+Anusha","Telugu
+Sushma","Social
+Anusha",PETSports Teacher,"Maths
+Navaneetha"
+Saturday,"Maths
+Navaneetha","Hindi
+Samreen","Science
+N Swapna","English-1
+Sarika","English-2
+Anusha","Telugu
+Sushma","Social
+Anusha"
+Class,3-C,3-C,3-C,3-C,3-C,3-C,3-C
+Period,1st,2nd,3rd,4th,5th,6th,7th
+Monday,"Social
+Asra","English-2
+Samreen","Maths
+Rajeshwari","Telugu
+Sushma","Hindi
+Sunitha","English-1
+Sai Madhuri","Science
+Girija"
+Tuesday,"Telugu
+Sushma","Maths
+Rajeshwari","English-2
+Samreen","Hindi
+Sunitha","English-1
+Sai Madhuri","Science
+Girija","Social
+Asra"
+Wednesday,"English-1
+Sai Madhuri","Science
+Girija",PETSports Teacher,"English-2
+Samreen","Maths
+Rajeshwari","Socia
+lAsra","Hindi
+Sunitha"
+Thursday,"Science
+Girija","English-1
+Sai Madhuri","Telugu
+Sushma","Maths
+Rajeshwari","English-2
+Samreen","Hindi
+Sunitha","Social
+Asra"
+Friday,"Hindi
+Sunitha","Telugu
+Sushma","Social
+Asra","English-1
+Sai Madhuri","Science
+Girija",PETSports Teacher,"Maths
+Rajeshwari"
+Saturday,"English-2
+Samreen","Hindi
+Sunitha","Science
+Girija","Social
+Asra","Telugu
+Sushma","Maths
+Rajeshwari","English-1
+Sai Madhuri"
+Class,2-A,2-A,2-A,2-A,2-A,2-A,2-A
+Period,1st,2nd,3rd,4th,5th,6th,7th
+Monday,"English-1
+Anusha","Telugu
+Sunitha","Maths-2
+Himabindu","EVS
+Sushma","Hindi
+Sushma","Maths-1
+Navaneetha","English-2
+Divya"
+Tuesday,"Maths-1
+Navaneetha","English-2
+Divya","Telugu
+Sunitha","Hindi
+Sushma","Maths-2
+Himabindu","English-1
+Anusha","EVS
+Sushma"
+Wednesday,"Hindi
+Sushma","Maths-1
+Navaneetha",PETSports Teacher,"English-2
+Divya","Telugu
+Sunitha","Maths-2
+Himabindu","English-1
+Anusha"
+Thursday,"EVS
+Sushma","Hindi
+Sushma","English-1
+Anusha","Maths-2
+Himabindu","English-2
+Divya","Telugu
+Sunitha","Maths-1
+Navaneetha"
+Friday,"Telugu
+Sunitha","Maths-2
+Himabindu","Hindi
+Sushma","English-1
+Anusha","EVS
+Sushma",PETSports Teacher,"Maths-1
+Navaneetha"
+Saturday,"English-2
+Divya","EVS
+Sushma","Maths-1
+Navaneetha","Telugu
+Sunitha","Hindi
+Sushma","Maths-2
+Himabindu","English-1
+Anusha"
+Class,2-B,2-B,2-B,2-B,2-B,2-B,2-B
+Period,1st,2nd,3rd,4th,5th,6th,7th
+Monday,"Telugu
+Sunitha","Hindi
+Muskan","Maths-1
+Girija","English-2
+Divya","Maths-2
+Sushma","English-1
+Sarika","EVS
+Himabindu"
+Tuesday,"English-1
+Sarika","Maths-2
+Sushma","EVS
+Himabindu","Hindi
+Muskan","Telugu
+Sunitha","Maths-1
+Girija","English-2
+Divya"
+Wednesday,"Maths-2
+Sushma","English-1
+Sarika",PETSports Teacher,"EVS
+Himabindu","Hindi
+Muskan","Telugu
+Sunitha","Maths-1
+Girija"
+Thursday,"Hindi
+Muskan","Telugu
+Sunitha","English-2
+Divya","Maths-1
+Girija","EVS
+Himabindu","English-1
+Sarika","Maths-2
+Sushma"
+Friday,"Maths-1
+Girija","English-2
+Divya","Telugu
+Sunitha","Maths-2
+Sushma","English-1
+Sarika",PETSports Teacher,"Hindi
+Muskan"
+Saturday,"EVS
+Himabindu","Maths-1
+Girija","Hindi
+Muskan","English-2
+Divya","Telugu
+Sunitha","Maths-2
+Sushma","English-1
+Sarika"
+Class,2-C,2-C,2-C,2-C,2-C,2-C,2-C
+Period,1st,2nd,3rd,4th,5th,6th,7th
+Monday,"Maths-1
+Navaneetha","English-2
+Samreen",EVSAnusha,"Hindi
+Muskan","Telugu
+Swarnalakshmi","Maths-2
+N Swapna","English-1
+Himabindu"
+Tuesday,"Hindi
+Muskan","Telugu
+Swarnalakshmi","Maths-1
+Navaneetha","English-2
+Samreen","EVS
+Anusha",English-1Himabindu,"Maths-2
+N Swapna"
+Wednesday,"English-1
+Himabindu","Maths-2
+N Swapna",PETSports Teacher,"Telugu
+Swarnalakshmi","Hindi
+Muskan","English-2
+Samreen",EVSAnusha
+Thursday,"Telugu
+Swarnalakshmi","English-1
+Himabindu","Maths-2
+N Swapna","EVS
+Anusha","Maths-1
+Navaneetha","Hindi
+Muskan","English-2
+Samreen"
+Friday,"EVS
+Anusha","Hindi
+Muskan","English-1
+Himabindu","Maths-1
+Navaneetha","English-2
+Samreen",PETSports Teacher,"Telugu
+Swarnalakshmi"
+Saturday,"Maths-2
+N Swapna","Telugu
+Swarnalakshmi","Hindi
+Muskan",English-1Himabindu,"EVS
+Anusha","Maths-1
+Navaneetha","English-2
+Samreen"
+Class,2-D,2-D,2-D,2-D,2-D,2-D,2-D
+Period,1st,2nd,3rd,4th,5th,6th,7th
+Monday,"English-1
+Himabindu","Maths-2
+Swathimuthyam","Hindi
+Asra","English-2
+Divya","Telugu
+Swarnalakshmi","EVS
+Muskan","Maths-1
+Rajeshwari"
+Tuesday,"Telugu
+Swarnalakshmi","English-1
+Himabindu","Maths-2
+Swathimuthyam","EVS
+Muskan","Hindi
+Asra","Maths-1
+Rajeshwari","English-2
+Divya"
+Wednesday,"Maths-1
+Rajeshwari","Hindi
+Asra",PETSports Teacher,"English-1
+Himabindu","EVS
+Muskan","Telugu
+Swarnalakshmi","Maths-2
+Swathimuthyam"
+Thursday,"EVS
+Muskan","Telugu
+Swarnalakshmi","English-2
+Divya","Maths-2
+Swathimuthyam","English-1
+Himabindu","Hindi
+Asra","Maths-1
+Rajeshwari"
+Friday,"Hindi
+Asra","Maths-1
+Rajeshwari","Telugu
+Swarnalakshmi","English-2
+Divya","Maths-2
+Swathimuthyam",PETSports Teacher,"EVS
+Muskan"
+Saturday,"English-2
+Divya","EVS
+Muskan","Maths-1
+Rajeshwari","Telugu
+Swarnalakshmi","Hindi
+Asra","Maths-2
+Swathimuthyam","English-1
+Himabindu"
+Class,1-A,1-A,1-A,1-A,1-A,1-A,1-A
+Period,1st,2nd,3rd,4th,5th,6th,7th
+Monday,"English-1
+Anusha","Hindi
+Chandana","Maths-2
+Sushma","Telugu
+Sunitha","Maths-1
+Navaneetha","English-2
+Sarika","Math-1
+Rajeshwari"
+Tuesday,"Maths-1
+Navaneetha","English-2
+Sarika","Telugu
+Sunitha","Hindi
+Chandana","English-1
+Anusha","Maths-2
+Sushma","Telugu
+Sunitha"
+Wednesday,"Telugu
+Sunitha","Maths-1
+Navaneetha",PETSports Teacher,"English-1
+Anusha","Hindi
+Chandana","English-2
+Sarika","Maths-2
+Sushma"
+Thursday,"Hindi
+Chandana","English-1
+Anusha","Maths-1
+Navaneetha","Maths-2
+Sushma","Telugu
+Sunitha","English-2
+Sarika","Hindi
+Chandana"
+Friday,"Maths-2
+Sushma","Telugu
+Sunitha","English-2
+Sarika","Maths-1
+Navaneetha","English-1
+Anusha",PETSports Teacher,"Hindi
+Chandana"
+Saturday,"English-2
+Sarika","Maths-2
+Sushma","Hindi
+Chandana","Telugu
+Sunitha","Maths-1
+Navaneetha","English-1
+Anusha","Telugu
+Sunitha"
+Class,1-B,1-B,1-B,1-B,1-B,1-B,1-B
+Period,1st,2nd,3rd,4th,5th,6th,7th
+Monday,"Telugu
+Sunitha","Hindi
+Muskan","English-1
+Himabindu","Maths-1
+Lavanya","English-2
+Anusha","EVS
+Chandana","Maths-2
+Rajeshwari"
+Tuesday,"English-1
+Himabindu","Telugu
+Sunitha","Maths-2
+Rajeshwari","EVS
+Chandana","Hindi
+Muskan","English-1
+Himabindu","Maths-1
+Lavanya"
+Wednesday,"Maths-1
+Lavanya","English-2
+Anusha",PETSports Teacher,"Hindi
+Muskan","Telugu
+Sunitha","Maths-2
+Rajeshwari","English-1
+Himabindu"
+Thursday,"Hindi
+Muskan","Maths-1
+Lavanya","English-2
+Anusha","Telugu
+Sunitha","EVS
+Chandana","English-1
+Himabindu","Maths-2
+Rajeshwari"
+Friday,"EVS
+Chandana","English-1
+Himabindu","Telugu
+Sunitha","Maths-2
+Rajeshwari","Maths-1
+Lavanya",PETSports Teacher,"Hindi
+Muskan"
+Saturday,"English-2
+Anusha","Maths-2
+Rajeshwari","Hindi
+Muskan","English-1
+Himabindu","EVS
+Chandana","Maths-1
+Lavanya","Telugu
+Sunitha"
+Class,1-A,1-A,1-A,1-A,1-A,1-A,1-A
+Period,1st,2nd,3rd,4th,5th,6th,7th
+Monday,"English-1
+Anusha","Hindi
+Chandana","Maths-2
+Sushma","Telugu
+Sunitha",Maths-1Navaneetha,"English-2
+Sarika","Telugu
+Sunitha"
+Tuesday,Maths-1Navaneetha,"English-2
+Sarika","Telugu
+Sunitha","Hindi
+Chandana","English-1
+Anusha","Maths-2
+Sushma","Maths-1
+Navaneetha"
+Wednesday,"Telugu
+Sunitha","Maths-1
+Navaneetha",PETSports Teacher,"English-1
+Anusha","Hindi
+Chandana","English-2
+Sarika","Maths-2
+Sushma"
+Thursday,"Hindi
+Chandana","English-1
+Anusha","Maths-1
+Navaneetha","Maths-2
+Sushma","Telugu
+Sunitha","English-2
+Sarika","Hindi
+Chandana"
+Friday,"Maths-2
+Sushma","Telugu
+Sunitha","English-2
+Sarika","Maths-1
+Navaneetha","English-1
+Anusha",PETSports Teacher,"Hindi
+Chandana"
+Saturday,"English-2
+Sarika","Maths-2
+Sushma","Hindi
+Chandana","Telugu
+Sunitha",Maths-1Navaneetha,"English-1
+Anusha","Telugu
+Sunitha"
